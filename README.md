@@ -18,7 +18,7 @@
      _|      _|    _|  _|_|_|_|        _|_|_|    _|_|    _|_|_|    _|_|_|_|  _|    _|  
                                                                                        
 ```
-## Hi there 👋
+## Hi There 👋
 
 <p>
 I am a software developer with AI and DevOps knoweledge.<br>
@@ -27,19 +27,4 @@ I am currently working on Spring Boot Micro Services.<br>
  I am a <b>Senior Back End Developer</b> at <b><a href="https://github.com/soramitsukhmer">SoramitsuKhmer</a><b>
 </p>
 
-
-
-<!--
-**VandyTheCoder/VandyTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
