@@ -58,13 +58,13 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/SodanheanVandy">
-<img alt="Twitter" src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 <a href="https://web.facebook.com/vandy.sodanhean">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/channel/UCG6_BvrtUsHOFeGH7hCbYYg">
-<img alt="Youtube" src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<img alt="Youtube" src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 </p>
 
