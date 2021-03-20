@@ -20,7 +20,7 @@
 ```
 ## Hi there 👋
 
-<p>I am software developer with AI and DevOps knoweledge.\n
+<p>I am software developer with AI and DevOps knoweledge.<br>
 I am looking forward to make the challendges. 🤝\n
 I am currently working on Spring Boot Micro Services.\n
 I am a **Senior Software Developer** at **[@soramitsukhmer](https://github.com/soramitsukhmer)**</p>
