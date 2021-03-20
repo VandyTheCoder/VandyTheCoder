@@ -66,9 +66,6 @@
 <a href="https://www.youtube.com/channel/UCG6_BvrtUsHOFeGH7hCbYYg">
 <img alt="Youtube" src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/channel/UCG6_BvrtUsHOFeGH7hCbYYg">
-<img alt="Youtube" src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
-</a>
 </p>
 
 Thanks for checking my profile. 😅
