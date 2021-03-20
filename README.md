@@ -17,7 +17,6 @@
 </p>
 
 ## My Experiences 🌟
-</br>
 <p>
 <b>Programming(Good At): </b></br>
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
