@@ -18,6 +18,13 @@
      _|      _|    _|  _|_|_|_|        _|_|_|    _|_|    _|_|_|    _|_|_|_|  _|    _|  
                                                                                        
 ```
+## Hi there 👋
+
+I am software developer with AI and DevOps knoweledge.
+I am looking forward to make the challendges. 🤝
+I am currently working on Spring Boot Micro Services.
+I am a **Senior Software Developer** at **[@soramitsukhmer](https://github.com/soramitsukhmer)**
+
 
 <!--
 **VandyTheCoder/VandyTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
