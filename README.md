@@ -20,10 +20,10 @@
 ```
 ## Hi there 👋
 
-I am software developer with AI and DevOps knoweledge.
-I am looking forward to make the challendges. 🤝
-I am currently working on Spring Boot Micro Services.
-I am a **Senior Software Developer** at **[@soramitsukhmer](https://github.com/soramitsukhmer)**
+<p>I am software developer with AI and DevOps knoweledge.</p>
+<p>I am looking forward to make the challendges. 🤝</p>
+<p>I am currently working on Spring Boot Micro Services.</p>
+<p>I am a **Senior Software Developer** at **[@soramitsukhmer](https://github.com/soramitsukhmer)**</p>
 
 
 <!--
