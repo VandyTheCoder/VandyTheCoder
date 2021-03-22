@@ -11,7 +11,7 @@
 
 <p>
 🌕 I am a software developer 🧑🏽‍💻 with AI and DevOps knoweledge.</br>
-💫 I am looking forward to make the challendges. 🤝</br>
+💫 I am looking forward for the challenges. 🤝</br>
 🔥 I am currently working on Spring Boot 🍃 Micro Services.</br>
 🥇 I am a <b>Senior Back End Developer</b> at <b><a href="https://github.com/soramitsukhmer">SoramitsuKhmer</a><b></br>
 🚀 I can develop web, mobile and desktop application.
