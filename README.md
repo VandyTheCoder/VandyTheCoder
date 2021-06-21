@@ -62,7 +62,7 @@
 <a href="https://twitter.com/SodanheanVandy">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white"/>
 </a>
-<a href="https://web.facebook.com/vandy.sodanhean">
+<a href="https://web.facebook.com/vandysodanheang">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/channel/UCG6_BvrtUsHOFeGH7hCbYYg">
