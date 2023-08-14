@@ -14,7 +14,7 @@
 ## Hello World 🌏
 
 <p>
-🌕 I am a kick-ass software developer 🧑🏽‍💻 with the title <b>Supreme Tactician</b>.</br>
+🌕 I am a kick-ass software developer 🧑🏽‍💻 with the title as <b>Supreme Tactician</b>.</br>
 💫 I am a ♏︎. 🤝</br>
 🔥 I specialize in <b>Spring Boot - Micro Services</b> and <b>Ruby On Rails - Monolith</b>.</br>
 🥇 I am a <b>Product Owner</b> and <b>Senior Developer</b> at <b><a href="https://github.com/soramitsukhmer">SoramitsuKhmer</a></b>b></br>
