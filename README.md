@@ -14,11 +14,11 @@
 ## Hello World 🌏
 
 <p>
-🌕 I am a software developer 🧑🏽‍💻 with AI and DevOps knoweledge.</br>
-💫 I am looking forward for the challenges. 🤝</br>
-🔥 I am currently working on Spring Boot 🍃 Micro Services.</br>
-🥇 I am a <b>Senior Back End Developer</b> at <b><a href="https://github.com/soramitsukhmer">SoramitsuKhmer</a><b></br>
-🚀 I can develop web, mobile and desktop application.
+🌕 I am a kick-ass software developer 🧑🏽‍💻 with the title <b>Supreme Tactician</b>.</br>
+💫 I am a ♏︎. 🤝</br>
+🔥 I specialize in <b>Spring Boot - Micro Services</b> and <b>Ruby On Rails - Monolith</b>.</br>
+🥇 I am a <b>Product Owner</b> and <b>Senior Developer</b> at <b><a href="https://github.com/soramitsukhmer">SoramitsuKhmer</a><b></br>
+🚀 I am into mcu, anime, web 3 and crypto world.
 </p>
 </br>
 
@@ -39,7 +39,7 @@
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>
 </p>
 <p>
-<b>DevOps(Able To): </b></br>
+<b>DevOps(Able To Use): </b></br>
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=flat-square&logo=digitalOcean&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
