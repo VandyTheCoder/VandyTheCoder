@@ -24,21 +24,21 @@
 
 ## My Experiences 🌟
 <p>
-<b>Programming And Framework (Good At): </b></br>
+<b>Programming Language (Good At): </b></br>
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat-square&logo=kotlin&logoColor=white"/>
 </p>
 <p>
-<b>Artificial Intelligence(Tried With): </b></br>
+<b>Artificial Intelligence (Tried With): </b></br>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>
 </p>
 <p>
-<b>DevOps(Able To Use): </b></br>
+<b>Development and Operation (Able To Use): </b></br>
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=flat-square&logo=digitalOcean&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
