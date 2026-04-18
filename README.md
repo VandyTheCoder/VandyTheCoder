@@ -61,6 +61,13 @@ Senior Developer and Product Owner at **Soramitsu Khmer Co., Ltd**, where I desi
 
 ---
 
+### Side Projects
+
+- 🇰🇭 **[Cambo-Guide](https://cambo-guide.com)** — Independent, unsponsored travel guide for foreigners visiting Cambodia. Visa info, fair prices, safety, transport, and destination guides. *(Rails 8, Hotwire, Tailwind)*
+- 🕰️ **[launchd-gen](https://github.com/VandyTheCoder/launchd-gen)** — Open-source Go CLI that converts cron expressions into macOS launchd plists. Zero dependencies.
+
+---
+
 ### Connect
 
 <p>
