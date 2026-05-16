@@ -65,6 +65,7 @@ Senior Developer and Product Owner at **Soramitsu Khmer Co., Ltd**, where I desi
 
 - 🇰🇭 **[Cambo-Guide](https://cambo-guide.com)** — Independent, unsponsored travel guide for foreigners visiting Cambodia. Visa info, fair prices, safety, transport, and destination guides. *(Rails 8, Hotwire, Tailwind)*
 - 🕰️ **[launchd-gen](https://github.com/VandyTheCoder/launchd-gen)** — Open-source Go CLI that converts cron expressions into macOS launchd plists. Zero dependencies.
+- 💎 **[bakong-khqr](https://github.com/VandyTheCoder/bakong-khqr-ruby)** — Open-source Ruby SDK for KHQR, Cambodia's national QR Code standard. Generate, decode, verify, and call the Bakong Open API. Zero runtime gem dependencies. *(Ruby, RubyGems)*
 
 ---
 
